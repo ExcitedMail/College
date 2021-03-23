@@ -1,7 +1,3 @@
 # College
-# College
-# College
-# College
-# College
-# College
-# College
+
+Revisit to Github.
